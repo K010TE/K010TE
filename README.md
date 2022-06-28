@@ -1,12 +1,12 @@
 ### <> Hello World <> 👋
 
-💻 Estagiário em Desenvolvimento de Software
+💻 Estagiário em Desenvolvimento de Chatbot
 
-🌱 Estudante de Ciências Sociais e Análise de Sistemas
+🌱 Estudante de Ciências Sociais e Design de Games
 
-🐱‍👤 Atualmente me dedicando ao UX Design
+🐱‍👤 Atualmente me dedicando ao UX Design e Tecnopolítica
 
-📚 Ficção Científica <3
+📚 Pesquiso sobre Ficção Científica e ontologia social
 
 <div align="center">
   <a href="https://github.com/k010te">
