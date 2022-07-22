@@ -4,7 +4,7 @@
 
 🌱 Estudante de Ciências Sociais e Design de Games
 
-🐱‍👤 Atualmente me dedicando ao UX Design e Tecnopolítica
+🐱‍👤 Atualmente me dedicando à Tecnopolítica, Ciência de Dados e IA
 
 📚 Pesquiso sobre Ficção Científica e ontologia social
 
