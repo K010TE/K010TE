@@ -4,9 +4,9 @@
 
 🌱 Estudante de Ciências Sociais e Design de Games
 
-🐱‍👤 Atualmente me dedicando aos estudos sobre Tecnopolítica, Ciência de Dados e IA
+🐱‍👤 Atualmente me dedicando aos estudos sobre UX Design e Tecnopolítica
 
-📚 Pesquiso sobre simulações e ontologia social
+📚 Pesquiso sobre semiótica discursiva
 
 <div align="center">
   <a href="https://github.com/k010te">
