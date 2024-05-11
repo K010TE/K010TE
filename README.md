@@ -1,12 +1,12 @@
 ### <> Hello World <> 👋
 
-💻 Estagiário em Desenvolvimento de Chatbot
+💻 Graduado em Design de Games
 
-🌱 Estudante de Ciências Sociais e Design de Games
+🌱 Mestrando em Ciências Sociais
 
-🐱‍👤 Atualmente me dedicando aos estudos sobre UX Design e Tecnopolítica
+🐱‍👤 Atualmente me dedicando aos estudos sobre filosofia e sociologia das IAs
 
-📚 Pesquiso sobre semiótica discursiva
+📚 Pesquiso também jogos digitais, cinema e simulação
 
 <div align="center">
   <a href="https://github.com/k010te">
