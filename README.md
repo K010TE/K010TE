@@ -2,7 +2,7 @@
 
 💻 Graduado em Design de Games
 
-🌱 Mestrando em Ciências Sociais
+🌱 Estudando Inteligências Artificiais no Mestrado
 
 🐱‍👤 Atualmente me dedicando aos estudos sobre filosofia e sociologia das IAs
 
