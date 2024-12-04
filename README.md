@@ -1,10 +1,10 @@
 ### <> Hello World <> 👋
 
-💻 Graduado em Design de Games
+💻 Graduado em Matemática e Game Design
 
-🌱 Estudando Inteligências Artificiais no Mestrado
+🌱 Mestrando em Ciência da Computação na Universidade Federal de Campina Grande
 
-🐱‍👤 Atualmente me dedicando aos estudos sobre filosofia e sociologia das IAs
+🐱‍👤 Atualmente me dedicando aos estudos sobre filosofia e sociologia das IAs, tecnodiversidade e tecnopolítica
 
 📚 Pesquiso também jogos digitais, cinema e simulação
 
