@@ -34,3 +34,4 @@
 </div>
   
 
+![Snake animation](https://github.com/GabrielaZanetti/k010te/blob/output/github-contribution-grid-snake.svg)
