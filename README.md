@@ -1,12 +1,11 @@
 ### <> Hello World <> 👋
 
-💻 Graduado em Matemática e Game Design. Concluindo ADS
+💻 Graduado em Matemática, Game Design e ADS
 
 🌱 Mestrando em Ciência da Computação na Universidade Federal de Campina Grande
 
 🐱‍👤 Atualmente me dedicando aos estudos sobre tecnodiversidade, tecnopolítica, filosofia e sociologia das IAs
 
-📚 Pesquiso também teoria da computação, lógica formal e simulação
 
 <div align="center">
   <a href="https://github.com/k010te">
