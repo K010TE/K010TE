@@ -1,6 +1,6 @@
 ### <> Hello World <> 👋
 
-💻 Graduado em Matemática, Game Design e ADS
+💻 Graduado em Matemática, Ciências Sociais e Jogos Digitais
 
 🌱 Mestrando em Ciência da Computação na Universidade Federal de Campina Grande
 
