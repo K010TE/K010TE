@@ -1,17 +1,12 @@
 ### <> Hello World <> 👋
 
-💻 Graduado em Matemática, Ciências Sociais e Jogos Digitais
+💻 Graduado em Matemática e Jogos Digitais. Concluindo Análise e Desenvolvimento de Sistemas
 
 🌱 Mestrando em Ciência da Computação na Universidade Federal de Campina Grande
 
-🐱‍👤 Atualmente me dedicando aos estudos sobre tecnodiversidade, tecnopolítica, filosofia e sociologia das IAs
+🐱‍👤 Atualmente no MBA em IA e Big Data da USP
 
 
-<div align="center">
-  <a href="https://github.com/k010te">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=k010te&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=k010te&layout=compact&langs_count=7&theme=dracula"/>
-</div>
 
   <div style="display: inline_block"><br>
   <img align="center" alt="k010te-python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
