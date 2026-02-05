@@ -1,10 +1,10 @@
 ### <> Hello World <> 👋
 
-💻 Graduado em Matemática e Jogos Digitais. Concluindo Análise e Desenvolvimento de Sistemas
+💻 Profissional da arte de pressionar teclas
 
 🌱 Mestrando em Ciência da Computação na Universidade Federal de Campina Grande
 
-🐱‍👤 Atualmente no MBA em IA e Big Data da USP
+🐱‍👤 MBA em IA e Big Data da USP
 
 
 
